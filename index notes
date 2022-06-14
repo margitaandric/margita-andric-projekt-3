@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="zaglavlje.css">
+</head>
+<style>
+header{
+	background-color:lightgray;
+}
+
+
+</style>
+
+<body>
+<div class="header">
+    <h1>Margita Andrić - moj html dokument</h1>
+	<h3>izrada stranice za digitalni multimedij</h3>
+    </div>
+    <img src="zadarr.jpg" alt="Zadar" style=width:100%  >
+    
+    <div class="topnav">
+    <a href="file:///C:/Users/Margita%20Andric/Desktop/margita%20stranica/drugi%20html.html">radovi</a>
+	<a href="https://www.grf.unizg.hr/" class="nav-item nav-link">Fakultet</a>
+        <a href="margita_andric_project1 (2).pdf">pdf.dokument </a> 
+    </div>
+<div class="row">
+    <div class="column">
+   <h2>O meni</h2>
+        <p>Moje ime je Margita Andrić i ovo je web stranica napravljena za kolegij Digitalni multimedij.
+Završila sam srednju školu u Zadru za medijskog tehničara, a fakultet sam upisala u Zagrebu.
+volim sport, muziku i serije :)</p>
+    </div>
+        <div class="column">
+   <h3>Bendovi koje slušam</h3>
+		<ol>
+			 <li>Slipknot</li>
+			 <li>Linkin park</li>
+			 <li>System of down</li>
+		<ol>
+    </div>
+        <div class="column">
+<h3>Filmovi koje preporučam</h3>
+ <ul>
+ <li>Saw</li>
+ <li>Conjuring</li>
+ <li>Anabelle</li></li>
+<ul>
+</div>
+
+    
+</body>
+</html>

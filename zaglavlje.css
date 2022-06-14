@@ -1,0 +1,63 @@
+ /*linkovi*/
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: gray;
+}
+
+.topnav a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    background-color: skyblue;
+    color: black;
+}
+
+    body {
+        margin: 0;
+    }
+    /*Zaglavlje*/
+    .header{
+        background-color: lightgray;
+        padding: 20px;
+        text-align: center;
+    }
+ /*tekst*/
+{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+.column{
+    float: left;
+    width: 30%;
+    padding: 15px;
+}
+
+.row:after{
+    content: "";
+    display:table;
+    clear: both;
+}
+
+ /*Podnožje*/
+   footer{
+        background-color: lightgray;
+        padding: 20px;
+        text-align: center;
+    }
